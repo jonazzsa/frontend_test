@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.parent-container{
+  background-color: #262626;
+  height: 300px; 
+  float: left;
+  width: 100%;
+}
+
+.custom-card{
+  max-width: 700px !important;
+  margin: 130px auto 0 auto;
+  border-radius: 4px
+}
+
+.custom-card-header{
+  height: 85px;
+  margin-bottom: 75px;
+}
+
+.top-hightlight{
+  border-top: solid 3px #439539;
+}
+
+.top-dehightlight{
+  border-top: solid 3px #FFFFFF;
+}
+
+.image-border{
+  padding: 4px;
+  border: 1px #cccccc solid;
+  background-color: #FFFFFF;
+}
+
